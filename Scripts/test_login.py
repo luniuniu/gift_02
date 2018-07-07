@@ -15,7 +15,6 @@ def get_data():
 
 class Test_Dev_Login:
 
-    @pytest.allure.severity(pytest.allure.severity_level.MINOR)
     def setup_class(self):
         self.DL = Dev_login(get_driver("io.manong.developerdaily","io.toutiao.android.ui.activity.MainActivity"))
         # 处理弹窗方法
@@ -30,7 +29,7 @@ class Test_Dev_Login:
     def teardown_class(self):
         self.DL.driver.quit()
 
-    @pytest.allure.severity(pytest.allure.severity_level.BLOCKER
+    @pytest.allure.severity(pytest.allure.severity_level.BLOCKER)
     def get_screen(self):
         self.DL.driver.get_screenshot_as_file("./Screen/%s.png"% time.time())
         allure.attach('描述','这里可以截图')
