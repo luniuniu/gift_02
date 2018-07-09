@@ -7,7 +7,7 @@ class Op_Data:
 
     def read_yaml(self):
         # 读yaml
-        with open(self.file_path, "r") as f:
+        with open(self.file_path, "r", encoding='utf-8') as f:
             return yaml.load(f)
 
     def write_yaml(self, data):

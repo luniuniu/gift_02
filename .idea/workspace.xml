@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="65413366-8e95-4129-bddc-7c8a771f5fe5" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base/read_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base/read_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/38a28e6f-a9a7-4104-839b-343084ed6745-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/59cdde18-4bce-4244-a51c-577d10db92ed-testsuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/6dcdbca0-b9f1-46b0-a3dd-a1a9d5448263-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/bcfc2e81-6780-4ad0-8008-21d6c0dedac6-attachment.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,12 +17,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="pytest.ini" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pytest.ini" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pytest.ini">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+              <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -25,10 +30,24 @@
       <file leaf-file-name="test_login.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Scripts/test_login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="171">
+              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="read_data.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Base/read_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_001.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scripts/test_001.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -36,8 +55,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Base/read_data.py" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="255" />
+    <option name="x" value="111" />
     <option name="y" value="23" />
     <option name="width" value="1206" />
     <option name="height" value="823" />
@@ -53,6 +79,21 @@
             <path>
               <item name="gift_02" type="b2602c69:ProjectViewProjectNode" />
               <item name="gift_02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gift_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gift_02" type="462c0819:PsiDirectoryNode" />
+              <item name="Base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gift_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gift_02" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gift_02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gift_02" type="462c0819:PsiDirectoryNode" />
+              <item name="Page" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="gift_02" type="b2602c69:ProjectViewProjectNode" />
@@ -96,31 +137,46 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="255" y="23" width="1206" height="823" extended-state="0" />
+    <frame x="111" y="23" width="1206" height="823" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24978903" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24978903" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.6970128" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.20199147" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pytest.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Base/init_driver.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -128,17 +184,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/test_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Screen/1531109221.982831.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/pytest.ini">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/test_001.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Base/read_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
         </state>
       </provider>
     </entry>
